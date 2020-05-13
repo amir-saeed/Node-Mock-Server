@@ -1,6 +1,6 @@
 ## This project is to run the server on your local machine
 
-run the command
+run the below command
 
 npm install
 
