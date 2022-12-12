@@ -17,7 +17,7 @@
     },
     "homepage": "https://github.com/amir-saeed/Node-Mock-Server#readme",
     "dependencies": {
-        "express": "^4.17.1",
+        "express": "^4.17.3",
         "json-server": "^0.16.1"
     }
 }
